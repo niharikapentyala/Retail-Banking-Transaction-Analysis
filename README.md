@@ -158,8 +158,18 @@ Based on the analysis, the following recommendations were identified:
 
 ---
 
-## Project Presentation
-The project presentation is available in the PPT folder.
+## Conclusion
 
+The project successfully analyzed customer, account, transaction, loan, and card data using MySQL.
+
+SQL queries helped identify important patterns and differences across banking activities. The analysis provided actionable insights into customer segments, account usage, transaction activity, loan exposure, and card usage.
+
+These insights can support better customer targeting, product management, and banking decisions.
+
+---
+
+## Author
+
+**Niharika Pentyala**
 ## Author
 Pentyala Niharika
