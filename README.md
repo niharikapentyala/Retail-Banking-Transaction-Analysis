@@ -171,5 +171,3 @@ These insights can support better customer targeting, product management, and ba
 ## Author
 
 **Niharika Pentyala**
-## Author
-Pentyala Niharika
