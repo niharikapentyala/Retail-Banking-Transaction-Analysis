@@ -161,5 +161,5 @@ Based on the analysis, the following recommendations were identified:
 ## Project Presentation
 The project presentation is available in the PPT folder.
 
-Author
+## Author
 Pentyala Niharika
